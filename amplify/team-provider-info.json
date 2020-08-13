@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-zigzagapp-dev-170103-authRole",
+            "UnauthRoleArn": "arn:aws:iam::320072130276:role/amplify-zigzagapp-dev-170103-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::320072130276:role/amplify-zigzagapp-dev-170103-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-zigzagapp-dev-170103-deployment",
+            "UnauthRoleName": "amplify-zigzagapp-dev-170103-unauthRole",
+            "StackName": "amplify-zigzagapp-dev-170103",
+            "StackId": "arn:aws:cloudformation:us-east-1:320072130276:stack/amplify-zigzagapp-dev-170103/cfe67300-dd75-11ea-b362-0a140a53308d",
+            "AmplifyAppId": "d22dzjgmag8qpg"
+        },
+        "categories": {
+            "auth": {
+                "zigzagapp8c43040d": {}
+            }
+        }
+    }
+}
